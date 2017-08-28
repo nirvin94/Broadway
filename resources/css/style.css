@@ -1,0 +1,19 @@
+/* Align content center: */
+body {
+  text-align: center;
+}
+
+/* header style */
+#header {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+/* link style */
+a {
+  color: white;
+}
