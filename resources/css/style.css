@@ -1,6 +1,7 @@
 /* Align content center: */
 body {
   text-align: center;
+  font-family: Helvetica;
 }
 
 /* header style */
@@ -11,14 +12,12 @@ body {
 }
 
 h1{
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
 }
 
 ul {
   list-style: none;
-  font-family: Helvetica;
   font-size: 18px;
   line-height: 2em;
 }
@@ -26,4 +25,29 @@ ul {
 /* link style */
 a {
   color: white;
+}
+
+/* body design */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+/* designed in new york */
+
+h4 {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+  padding-top: 4px;
 }
